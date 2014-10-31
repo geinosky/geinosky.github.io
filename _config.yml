@@ -1,0 +1,27 @@
+# Site settings
+title: Stephen Geinosky
+email: stephengeinosky@gmail.com
+description: "I am a web developer/designer who finds beauty in minimalism. I currently work for NCAR, and work on giving our users the best experience possible."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 333333 #80B3FF
+  secondary: 4C1B1B #FD6E8A
+  secondary-dark: 111111 #A2122F
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/stephen.geinosky
+  - title: linkedin
+    url: https://www.linkedin.com/pub/stephen-geinosky/20/108/761
+  - title: github
+    url: https://github.com/geinosky
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Arvada, CO 
+
+# Build settings
+markdown: kramdown
+permalink: pretty

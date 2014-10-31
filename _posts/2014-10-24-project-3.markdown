@@ -1,0 +1,33 @@
+---
+layout: default
+modal-id: 4
+date: 2014-07-30
+img: user-experience-icon.png
+alt: image-alt
+project-date: 
+client: 
+skill: Google Analytics, CrazyEgg
+description: 
+
+---
+
+## CISL/NCAR
+
+### Web Developer II/Graphic Designer
+
+* Utilized Google Analytics to direct front-end improvements
+
+* Train staff on any updates/changes/improvements made to the uploading and editing content process
+
+* Redesigned main menu in the sub-theme to improve usability
+
+
+## Harvard Magazine
+
+### Associate Web Developer
+
+* Utilized Google Analytics to help filter out trending pages, topics, and events such as email blasts visited on the website to help target advertising opportunities
+
+* Trained staff on any updates/changes/improvements made to the uploading and editing content process
+
+* Restructured our content and gave a training seminar to local staff on SEO best practices and improvements

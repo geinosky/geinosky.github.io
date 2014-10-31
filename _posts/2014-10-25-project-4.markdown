@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: workflow-icon.png
+alt: image-alt
+project-date: 
+client: 
+skills: GIT, JIRA, Agile (Scrum, Kanban)
+description: 
+---
+
+When working solo, I use the Kanban method to track products from conception to completion. Since implementing this workflow, I have seen a drastic increase both productivity and increased awareness of a current product's state with product owners. While I have tried several Kanban board tools, I have found JIRA to be the most flexible. Especially as I transition from individual work and group work.
+
+I have recently been introduced to Scrum while working with a team of four engineers. After attending a recent workshop in Boulder, I'm extreamely exited to dive headfirst into working with a team that focuses on increased software releases, as well as improved code through automated testing (Ghost.js, Slimer.js).

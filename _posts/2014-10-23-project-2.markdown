@@ -1,0 +1,36 @@
+---
+layout: default
+modal-id: 3
+date: 2014-10-21
+img: back-end-icon.png
+alt: image-alt
+project-date: 
+client: 
+skills: mySQL, PHP, .bash, drush, Apache, MAMP
+description: 
+
+---
+
+## CISL/NCAR
+
+###  Web Developer II/Graphic Designer
+
+* Migrate remaining Drupal 6 sites to Drupal 7 using the migrate module
+
+* Build custom modules
+
+* Built a blog and documentation website on Gitpages
+
+* Performing security updates on multiple Drupal websites
+
+
+
+## Harvard Magazine
+
+### Associate Web Developer
+
+* Completely rebuilt Harvard Magazine's classifieds section and their classifieds purchase form with Ubercart
+
+* Restructured how classified ads are stored in the database and displayed to the user
+
+* Maintained custom .bash script that created daily back-ups of databases

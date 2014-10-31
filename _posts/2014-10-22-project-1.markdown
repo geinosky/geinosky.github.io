@@ -1,0 +1,59 @@
+---
+layout: default
+modal-id: 2
+date: 2014-10-22
+img: front-end-icon.png
+alt: image-alt
+project-date: 
+client: 
+skills: HTML5, CSS3, SASS, Javascript, JQuery, Jekyll, Grunt, Gulp, Yeoman, Bower, XML/RSS, Custom Drupal Theming, Github pages
+description: 
+
+---
+## CISL/NCAR
+
+### Web Developer II/Graphic Designer
+
+* Designed a sub-theme improving usability using analytics and user tests
+
+** Organized and led a group to restructure the website's sitemap
+
+* Working with communications department to build a custom responsive theme to be used organization wide
+
+* Maintaining current theme
+
+* Working with staff to restructure group content with a focus on user experience
+
+* Built a custom MailChimp template
+
+* Updated content, cleaned up code and file structure on a kiosk
+
+## Harvard Magazine
+
+### Associate Web Developer
+
+* Redesigned article pages to create a better reading experience by focusing on the text and images
+
+* Created a custom landing page theme that can be used to promote special events
+
+* Created a custom module to help allow the magazine to customize content based upon a custom taxonomy
+
+* Custom-built floating and pushdown ads that utilize a cookie to only display the ads during scheduled intervals to users
+
+* Added a custom classifieds blog within the site
+
+* Designed a cleaner navigation focusing on usability and functionality
+
+* Completely rebuilt Harvard Magazine's donor section from the ground up
+
+* Added features, including an interactive chart and a landing page dedicated to current and potential donors
+
+* Built several custom-themed email templates in MailChimp for the over 200,000 email recipients
+
+##Freelance Web Designer
+
+* Designed and coded an interactive, Flash-based website for local band "It's All Good" focusing on new elements to reach out to potential listeners and venues
+
+* Designed and developed Drupal website for local Boy Scout Troop
+
+* Designed a Tumblr website for "497 lessons I wish my coach had taught me"
