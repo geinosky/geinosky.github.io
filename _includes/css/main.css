@@ -269,6 +269,10 @@ section.success {
     background: #fff;
 }
 
+.form-group {
+    margin-top:15px;
+}
+
 .floating-label-form-group {
     position: relative;
     margin-bottom: 0;
@@ -443,4 +447,17 @@ footer .footer-below {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
+}
+
+form input,
+form textarea {
+    outline:none;
+}
+
+form textarea {
+    width:100%;
+}
+
+form li {
+    list-style: none;
 }
