@@ -10,13 +10,13 @@ skills: HTML5, CSS3, SASS, Javascript, JQuery, Jekyll, Grunt, Gulp, Yeoman, Bowe
 description: 
 
 ---
-## CISL/NCAR
+## National Center for Atmospheric Research
 
 ### Web Developer II/Graphic Designer
 
 * Designed a sub-theme improving usability using analytics and user tests
 
-** Organized and led a group to restructure the website's sitemap
+* Organized and led a group to restructure the website's sitemap
 
 * Working with communications department to build a custom responsive theme to be used organization wide
 
@@ -49,11 +49,3 @@ description:
 * Added features, including an interactive chart and a landing page dedicated to current and potential donors
 
 * Built several custom-themed email templates in MailChimp for the over 200,000 email recipients
-
-##Freelance Web Designer
-
-* Designed and coded an interactive, Flash-based website for local band "It's All Good" focusing on new elements to reach out to potential listeners and venues
-
-* Designed and developed Drupal website for local Boy Scout Troop
-
-* Designed a Tumblr website for "497 lessons I wish my coach had taught me"

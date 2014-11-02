@@ -6,7 +6,7 @@ img: user-experience-icon.png
 alt: image-alt
 project-date: 
 client: 
-skill: Google Analytics, CrazyEgg
+skills: Google Analytics, CrazyEgg
 description: 
 
 ---
