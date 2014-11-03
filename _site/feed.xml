@@ -5,23 +5,23 @@
     <description>I am a web developer/designer who finds beauty in minimalism. I currently work for NCAR, and work on giving our users the best experience possible.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 02 Nov 2014 16:14:51 -0700</pubDate>
-    <lastBuildDate>Sun, 02 Nov 2014 16:14:51 -0700</lastBuildDate>
+    <pubDate>Sun, 02 Nov 2014 23:23:36 -0700</pubDate>
+    <lastBuildDate>Sun, 02 Nov 2014 23:23:36 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Project 1</title>
-        <description>&lt;h2 id=&quot;cislncar&quot;&gt;CISL/NCAR&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;national-center-for-atmospheric-research&quot;&gt;National Center for Atmospheric Research&lt;/h2&gt;
 
 &lt;h3 id=&quot;web-developer-iigraphic-designer&quot;&gt;Web Developer II/Graphic Designer&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Designed a sub-theme improving usability using analytics and user tests&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;** Organized and led a group to restructure the website’s sitemap&lt;/p&gt;
-
-&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Designed a sub-theme improving usability using analytics and user tests&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Organized and led a group to restructure the website’s sitemap&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Working with communications department to build a custom responsive theme to be used organization wide&lt;/p&gt;
   &lt;/li&gt;
@@ -72,20 +72,6 @@
     &lt;p&gt;Built several custom-themed email templates in MailChimp for the over 200,000 email recipients&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h2 id=&quot;freelance-web-designer&quot;&gt;Freelance Web Designer&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Designed and coded an interactive, Flash-based website for local band “It’s All Good” focusing on new elements to reach out to potential listeners and venues&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Designed and developed Drupal website for local Boy Scout Troop&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Designed a Tumblr website for “497 lessons I wish my coach had taught me”&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
 </description>
         <pubDate>Wed, 22 Oct 2014 00:00:00 -0600</pubDate>
         <link>/2014/10/22/project-1/</link>
@@ -96,7 +82,7 @@
     
       <item>
         <title>Project 2</title>
-        <description>&lt;h2 id=&quot;cislncar&quot;&gt;CISL/NCAR&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;national-center-for-atmospheric-research&quot;&gt;National Center for Atmospheric Research&lt;/h2&gt;
 
 &lt;h3 id=&quot;web-developer-iigraphic-designer&quot;&gt;Web Developer II/Graphic Designer&lt;/h3&gt;
 
