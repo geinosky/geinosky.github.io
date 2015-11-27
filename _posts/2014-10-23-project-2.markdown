@@ -6,7 +6,7 @@ img: back-end-icon.png
 alt: image-alt
 project-date: 
 client: 
-skills: mySQL, PHP, .bash, drush, Apache, MAMP
+skills: PHP, MySQL, Apache, XML, Procedural programming, OOP, Drush, Git
 description: 
 
 ---
@@ -15,9 +15,17 @@ description:
 
 ###  Web Developer II/Graphic Designer
 
-* Migrate remaining Drupal 6 sites to Drupal 7 using the migrate module
+* Built a module leveraging an API to create automated organizational charts using OOP
 
-* Build custom modules
+* Added additional security measures to a custom authentication module
+
+* Built a module to create an additional role and assign authenticated users the role
+
+* Organized and led a group to restructure CISL’s website sitemap
+
+* Updated content, cleaned up code and file structure on a kiosk
+
+* Migrate remaining Drupal 6 sites to Drupal 7 using the migrate module
 
 * Built a blog and documentation website on Gitpages
 

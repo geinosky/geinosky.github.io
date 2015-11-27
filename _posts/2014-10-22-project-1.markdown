@@ -6,7 +6,7 @@ img: front-end-icon.png
 alt: image-alt
 project-date: 
 client: 
-skills: HTML5, CSS3, SASS, Javascript, JQuery, Jekyll, Grunt, Gulp, Yeoman, Bower, XML/RSS, Custom Drupal Theming, Github pages
+skills: HTML5, CSS3, SASS, Javascript, Jekyll, Grunt, Gulp, Yeoman, Bower
 description: 
 
 ---
@@ -14,19 +14,17 @@ description:
 
 ### Web Developer II/Graphic Designer
 
+* Working with staff to restructure group content with a focus on user experience
+
 * Designed a sub-theme improving usability using analytics and user tests
-
-* Organized and led a group to restructure the website's sitemap
-
-* Working with communications department to build a custom responsive theme to be used organization wide
 
 * Maintaining current theme
 
-* Working with staff to restructure group content with a focus on user experience
+* Built a blog and documentation website on Github pages
 
 * Built a custom MailChimp template
 
-* Updated content, cleaned up code and file structure on a kiosk
+* Updated content, refactored XML code and file structure for a touchscreen kiosk
 
 ## Harvard Magazine
 
