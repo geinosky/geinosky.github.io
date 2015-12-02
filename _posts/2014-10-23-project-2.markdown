@@ -19,7 +19,7 @@ description:
 
 * Added additional security measures to a custom authentication module
 
-* Built a module to create an additional role and assign authenticated users the role
+* Built a module to create an additional role and assign authenticated users the role to be used on the ucar.edu and president.ucar.edu Drupal sites
 
 * Organized and led a group to restructure CISL’s website sitemap
 

@@ -19,6 +19,8 @@ description:
 
 * Utilized Google Analytics to direct front-end improvements
 
+* Working with staff to restructure group content with a focus on user experience within CISL
+
 * Train staff on any updates/changes/improvements made to the uploading and editing content process
 
 * Redesigned main menu in the sub-theme to improve usability
