@@ -6,14 +6,28 @@ img: back-end-icon.png
 alt: image-alt
 project-date: 
 client: 
-skills: PHP, MySQL, Apache, XML, Procedural programming, OOP, Drush, Git
+skills: PHP, Symfony, MySQL, Nginx, Apache, JSON, XML, SimpleSAML, Procedural programming, OOP, Drush, Terminus, Docker
 description: 
 
 ---
 
 ## National Center for Atmospheric Research
 
-###  Web Developer II/Graphic Designer
+### Web Developer III
+
+* Developed and manage a custom Drupal 8 Composer upstream and custom Drupal 7 upstream on Pantheon
+
+* Manage CircleCI configuration to automate the publication of our custom Drupal distributions
+
+* Created and maintain custom Drupal modules for daily email campaigns, content migration, custom theming, and a public alert system
+
+* Consistently look for areas of automation and development improvements
+
+* Moved sites from in-house hosting to Pantheon and AWS
+
+* Performing security updates on multiple Drupal websites
+
+### Web Developer II/Graphic Designer
 
 * Built a module leveraging an API to create automated organizational charts using OOP
 

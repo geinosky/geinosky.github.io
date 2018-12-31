@@ -6,10 +6,10 @@ img: workflow-icon.png
 alt: image-alt
 project-date: 
 client: 
-skills: GIT, JIRA, Agile (Scrum, Kanban)
+skills: Agile, flow charting, data modeling, user/stakeholder interviews
 description: 
 ---
 
-When working solo, I use the Kanban method to track products from conception to completion. Since implementing this workflow, I have seen a drastic increase both productivity and increased awareness of a current product's state with product owners. While I have tried several Kanban board tools, I have found JIRA to be the most flexible. Especially as I transition from individual work and group work.
+With a team of developers and stakeholders, I helped implemented a complete redesign of three umbrella websites as part using Scrum. As part of the development team, we identified a list of user profiles and worked with a team of content editors to restructure the umbrella website content. We then worked with a team of outside designers to finalize a new theme for the websites. After we were handed off the new design, I worked with the team to fully implement the new design into three Drupal 8 websites.
 
-I have recently been introduced to Scrum while working with a team of engineers. I'm extreamely exited to dive headfirst into working with a team that focuses on incremental software releases, as well as improved code through automated testing.
+When working solo, I use the Kanban method to track products from conception to completion. Since implementing this workflow, I have seen a drastic increase both productivity and increased awareness of a current product's state with product owners. While I have tried several Kanban board tools, I have found JIRA to be the most flexible. Especially as I transition from individual work and group work.
