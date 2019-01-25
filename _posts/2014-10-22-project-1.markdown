@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-10-22
+date: 2018-01-25
 img: front-end-icon.png
 alt: image-alt
 project-date: 

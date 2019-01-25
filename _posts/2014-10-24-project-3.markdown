@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-30
+date: 2018-01-25
 img: user-experience-icon.png
 alt: image-alt
 project-date: 

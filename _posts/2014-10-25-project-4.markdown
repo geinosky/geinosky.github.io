@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2018-01-25
 img: workflow-icon.png
 alt: image-alt
 project-date: 
 client: 
-skills: Agile, flow charting, data modeling, user/stakeholder interviews
+skills: Agile, Pantheon, CircleCI, Ar factory, New Relic, Docker, AWS, flow charting, data modeling, user/stakeholder interviews
 description: 
 ---
 

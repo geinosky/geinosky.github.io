@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-10-21
+date: 2018-01-25
 img: back-end-icon.png
 alt: image-alt
 project-date: 
 client: 
-skills: PHP, Symfony, MySQL, Nginx, Apache, JSON, XML, SimpleSAML, Procedural programming, OOP, Drush, Terminus, Docker
+skills: PHP, Symfony, MySQL, Nginx, Apache, JSON, XML, SimpleSAML, Procedural programming, OOP, Drush, Terminus
 description: 
 
 ---
