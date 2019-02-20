@@ -63,15 +63,15 @@ hr.star-light {
 
 hr.star-light:after {
     color: #fff;
-    background-color: #{{ site.color.primary }};
+    background-color: #333333;
 }
 
 hr.star-primary {
-    border-color: #{{ site.color.secondary }};
+    border-color: #4C1B1B;
 }
 
 hr.star-primary:after {
-    color: #{{ site.color.secondary }};
+    color: #4C1B1B;
     background-color: #fff;
 }
 
@@ -82,7 +82,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #{{ site.color.primary }};
+    background: #333333;
 }
 
 header .container {
@@ -148,6 +148,7 @@ header .intro-text .skills {
 }
 
 .navbar {
+    background: #4C1B1B;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
@@ -181,7 +182,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #{{ site.color.primary }};
+    background: #333333;
 }
 
 @media(max-width:767px) {
@@ -322,7 +323,7 @@ section.success {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #{{ site.color.primary }};
+    color: #333333;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -339,7 +340,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #{{ site.color.secondary }};
+    background-color: #4C1B1B;
 }
 
 footer .footer-col {
@@ -348,7 +349,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #{{ site.color.secondary-dark }};
+    background-color: #111111;
 }
 
 .btn-social {
@@ -433,7 +434,7 @@ footer .footer-below {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #{{ site.color.secondary }};
+    background-color: #4C1B1B;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -443,7 +444,7 @@ footer .footer-below {
     z-index: 1052;
     width: 1px;
     height: 75px;
-    background-color: #{{ site.color.secondary }};
+    background-color: #4C1B1B;
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);

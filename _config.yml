@@ -3,12 +3,6 @@ title: Stephen Geinosky
 email: stephengeinosky@gmail.com
 description: "I am a full-stack web developer who finds beauty in minimalism. I currently work for NCAR, and work on giving our users the best experience possible."
 
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: 333333 #80B3FF
-  secondary: 4C1B1B #FD6E8A
-  secondary-dark: 111111 #A2122F
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
