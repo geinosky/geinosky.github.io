@@ -6,7 +6,7 @@ img: front-end-icon.png
 alt: image-alt
 project-date: 
 client: 
-skills: HTML5, CSS3, SASS, Twig, Javascript, JQuery, Foundation, Bootstrap, NPM, Composer, Grunt, Gulp, BackstopJS 
+skills: HTML5, CSS3, SASS, Twig, Javascript, JQuery, Foundation, Bootstrap, NPM, Composer, Grunt, Gulp, Jekyll, BackstopJS, Vue.js
 description: 
 
 ---
@@ -15,7 +15,9 @@ description:
 
 * Refactored a responsive front-end base theme applicable to multiple applications that utilizes Foundation, reduced package manager complexity, and cleaned template and SASS redundancy
 
-* Implemented BackstopJS to reduce errors through visual-regression-testing
+* Support with a group of developers HPCTV, a Vue.js application reporting data on NCAR’s supercomputer Cheyenne
+
+* Implemented BackstopJS to reduce errors through visual regression testing
 
 * Developed a static website friendsofthenationalcenter.org using Bootstrap
 
