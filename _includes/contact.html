@@ -12,13 +12,15 @@
       <div class="col-lg-8 col-lg-offset-2">
         <div id="container" class="ltr">
           <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSfUhISkOgyrcZfEXHlcltUEohf9Lw8_hCgcpDosO7fx4_8JzA/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
-            <label for="name">Full Name</label>
-            <input type="text" name="entry.407373485" id="name">
-            <label for="email">Email</label>
-            <input type="email" name="entry.424255863" id="email">
-            <label for="body">Body</label>
-            <textarea name="entry.293018814" id="body" rows="10" cols="30"></textarea>
-            <input type="submit" value="Submit">
+            <div class="form-group">
+              <label for="name">Full Name</label>
+              <input type="text" name="entry.407373485" id="name" class="form-control">
+              <label for="email">Email</label>
+              <input type="email" name="entry.424255863" id="email" class="form-control">
+              <label for="body">Body</label>
+              <textarea name="entry.293018814" id="body" class="form-control" rows="10" cols="30"></textarea>
+              <input type="submit" value="Submit">
+            </div>
           </form>
           <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
         </div>
