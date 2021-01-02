@@ -6,7 +6,7 @@ img: back-end-icon.png
 alt: image-alt
 project-date: 
 client: 
-skills: PHP, Symfony, MySQL, Nginx, Apache, JSON, XML, SimpleSAML, Procedural programming, OOP, Drush, Terminus
+skills: PHP, Symfony, MySQL, Nginx, Apache, JSON, XML, SimpleSAML, PHPUnit, Codeception, Procedural programming, OOP, Drush, Terminus
 description: 
 
 ---
@@ -14,6 +14,7 @@ description:
 ## National Center for Atmospheric Research
 
 ### Web Developer III
+* Migrated all custom Drupal 8 tests from Codeception to PHPUnit
 
 * Developed and manage a custom Drupal 8 Composer upstream and custom Drupal 7 upstream on Pantheon
 

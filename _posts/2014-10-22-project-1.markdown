@@ -13,6 +13,8 @@ description:
 ## National Center for Atmospheric Research
 ### Web Developer III
 
+* Implementing a new responsive design for all downstream lab sites with a 94% or higher accessibility score on Google Lighthouse
+
 * Refactored a responsive front-end base theme applicable to multiple applications that utilizes Foundation, reduced package manager complexity, and cleaned template and SASS redundancy
 
 * Support with a group of developers HPCTV, a Vue.js application reporting data on NCAR’s supercomputer Cheyenne
