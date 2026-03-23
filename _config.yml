@@ -5,11 +5,14 @@ description: "I am a full-stack web developer who finds beauty in minimalism. I 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: facebook
+  - title: Facebook
+    icon: facebook
     url: https://www.facebook.com/stephen.geinosky
-  - title: linkedin
+  - title: LinkedIn
+    icon: linkedin
     url: https://www.linkedin.com/pub/stephen-geinosky/20/108/761
-  - title: github
+  - title: GitHub
+    icon: github
     url: https://github.com/geinosky
 
 # Postal address (add as many lines as necessary)
