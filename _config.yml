@@ -1,19 +1,19 @@
 # Site settings
 title: Stephen Geinosky
 email: stephengeinosky@gmail.com
-description: "I am a full-stack web developer who finds beauty in minimalism. I currently work for UCAR, and work on giving our users the best experience possible."
+description: "I am a full-stack software engineer who finds beauty in minimalism. I currently work for UCAR, and work on giving our users the best experience possible."
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: Facebook
-    icon: facebook
-    url: https://www.facebook.com/stephen.geinosky
-  - title: LinkedIn
-    icon: linkedin
-    url: https://www.linkedin.com/pub/stephen-geinosky/20/108/761
   - title: GitHub
     icon: github
     url: https://github.com/geinosky
+  - title: LinkedIn
+    icon: linkedin-in
+    url: https://www.linkedin.com/pub/stephen-geinosky/20/108/761
+  - title: Facebook
+    icon: facebook-f
+    url: https://www.facebook.com/stephen.geinosky
 
 # Postal address (add as many lines as necessary)
 address:

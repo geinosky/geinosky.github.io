@@ -1,43 +1,61 @@
 ---
 layout: default
-modal-id: 4
-date: 2018-01-25
-img: user-experience-icon.png
-alt: image-alt
+modal-id: 1
+date: 2026-3-24
+title: Project Management
+img: project-management-icon.png
+alt: Project Management
+icon: people-group
 project-date: 
 client: 
-skills: Google Analytics, CrazyEgg
+skills: JIRA, Trello, Slack, Confluence, Knowledge Base, Copilot, Gemini, Agile, Scrum, GitHub, GitLab, Google Tag Manager, Google Analytics,
 description: 
 
 ---
 
+## University Corporation for Atmospheric Research
+### Team Lead/Software Engineer III
+* Provide strategic leadership for the organization’s enterprise web ecosystem by presenting a long-term operational strategy to senior IT leadership.
+* Provide coaching and mentorship to team members and external partners, facilitating training on Drupal and WordPress development, DevOps best practices, accessibility, and user experience strategies.
+* Co-chair of the Web Technical Advisory Group and developed a formal accessibility strategy for public-facing websites using WCAG 2.1 as a standard.
+* Direct the enterprise web hosting budget for the organization; researching and implementing technical solutions based on a limited budget, varying user skill sets and stakeholder requirements.
+* Supervise a cross-functional web development team, conducting annual performance evaluations, setting measurable goals aligned with organizational strategy, providing continuous coaching and corrective feedback, and proactively addressing interpersonal and workflow conflicts through structured mediation and clear accountability frameworks to maintain team cohesion and productivity.
+* Support process improvements through the creation of development governance documentation, compliance with accessibility requirements, and facilitation of development customizations while mitigating upstream conflicts.
+* Prepare and maintain detailed project documentation with the help of AI tools such as Copilot and Gemini, including standards for development best practices, status updates for stakeholders, and post-project retrospectives to support continuous improvement.
+* Assigned and coordinated tasks among agile team members, ensuring accountability and alignment with project timelines and deliverables, facilitated by JIRA for backlog management and progress tracking.
+* Track progress against key milestones, identified and managed risks and issues, and escalated concerns proactively to stakeholders when necessary.
+* Created a comprehensive development plan to meet an expedited one-month development deadline for researchworks.ucar.edu using WordPress and oversaw transition of third-party design assets to the in-house team.
+* Developed technical solutions based on provided design prototypes, while discussing and problem-solving solutions based on the user’s experience, accessibility requirements, timelines and technical limitations.
+* Maintain documentation of code changes and feature updates through a changelog, GitHub release notes, Wiki documentation, and stakeholder demonstrations to ensure success.
+* Provide Google Tag Manager data and reports to stakeholders to support user experience improvements across organizational websites.
+
+## Pacific Northwest National Laboratory
+### Software Engineer III
+* Technical lead for migrating 47 independent Drupal 8 sites to Drupal 9.
+* Project lead for COMNET, migrated to on-premise hardware, security and accessibility updates, and estimating feature requests with stakeholders.
+* Provide additional technical support and guidance on Single Sign On, API integrations, application lifecycle management, and stakeholder communications for 3 Learning Content Management System websites with a junior developer.
+* Work with junior level developers to help grow development skills and look at future opportunities that align with individual and team goals.
+
+
 ## National Center for Atmospheric Research
+### Software Engineer III
 
-### Web Developer III
-
-* Using Agile, implemented a complete redesign of three umbrella websites as part of a development team from initial content structure and design concepts to the development design phase and implementation
-
-* Improved web accessibility from an average score of 68% on Google Lighthouse to over 90% on the new responsive umbrella websites
+* Technical lead for the web migration project updating 25 lab Drupal 7 sites to Drupal 9, including a redesign of the user interface and information architecture.
+* Using Agile, implemented a complete redesign of three umbrella websites as part of a development team from initial content structure and design concepts to the development design phase and implementation.
+* Improved web accessibility from an average score of 68% on Google Lighthouse to over 90% on the new responsive umbrella websites.
 
 ### Web Developer II/Graphic Designer
 
-* Performing a UX audit/improvements on the content editor interface on the CISL Drupal website
-
-* Utilized Google Analytics to direct front-end improvements
-
-* Working with staff to restructure group content with a focus on user experience within CISL
-
-* Train staff on any updates/changes/improvements made to the uploading and editing content process
-
-* Redesigned main menu in the sub-theme to improve usability
+* Performing a UX audit/improvements on the content editor interface on the CISL Drupal website.
+* Utilized Google Analytics to direct front-end improvements.
+* Working with staff to restructure group content with a focus on user experience within CISL.
+* Train staff on any updates/changes/improvements made to the uploading and editing content process.
+* Redesigned main menu in the sub-theme to improve usability.
 
 
 ## Harvard Magazine
-
 ### Associate Web Developer
 
-* Utilized Google Analytics to help filter out trending pages, topics, and events such as email blasts visited on the website to help target advertising opportunities
-
-* Trained staff on any updates/changes/improvements made to the uploading and editing content process
-
-* Restructured our content and gave a training seminar to local staff on SEO best practices and improvements
+* Utilized Google Analytics to help filter out trending pages, topics, and events such as email blasts visited on the website to help target advertising opportunities.
+* Trained staff on any updates/changes/improvements made to the uploading and editing content process.
+* Restructured our content and gave a training seminar to local staff on SEO best practices and improvements.

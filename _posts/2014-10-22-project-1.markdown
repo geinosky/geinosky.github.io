@@ -1,60 +1,52 @@
 ---
 layout: default
-modal-id: 2
-date: 2018-01-25
+modal-id: 4
+date: 2026-3-24
+title: Front-end Development
 img: front-end-icon.png
-alt: image-alt
+alt: Front-end Development
+icon: code
 project-date: 
 client: 
-skills: HTML5, CSS3, SASS, Twig, Javascript, JQuery, Foundation, Bootstrap, NPM, Composer, Grunt, Gulp, Jekyll, BackstopJS, Vue.js
+skills: Javascript, ReactJS, NextJS, VueJS, Bootstrap, Foundation, Tailwind CSS, Twig, Composer, Grunt, RollupJS, Webpack, NightwatchJS, HTML5, CSS3, SASS, NPM, WCAG 2.1, Canto
 description: 
 
 ---
+## University Corporation for Atmospheric Research
+### Team Lead/Software Engineer III
+
+* Developed and maintain a Bootstrap and a Foundation based custom Drupal themes based on design prototypes provided by third-party vendors.
+* Created and manage an automated development workflow using functional and visual-regression testing using NightwatchJS to verify changes on development and test environments before manually pushing changes to a production environment.
+
 ## National Center for Atmospheric Research
-### Web Developer III
+### Software Engineer III
 
-* Implementing a new responsive design for all downstream lab sites with a 94% or higher accessibility score on Google Lighthouse
-
-* Refactored a responsive front-end base theme applicable to multiple applications that utilizes Foundation, reduced package manager complexity, and cleaned template and SASS redundancy
-
-* Support with a group of developers HPCTV, a Vue.js application reporting data on NCAR’s supercomputer Cheyenne
-
-* Implemented BackstopJS to reduce errors through visual regression testing
-
-* Developed a static website friendsofthenationalcenter.org using Bootstrap
+* Implemented a new responsive design available as an NPM package to all downstream websites and applications with a 94% or higher accessibility score on Google Lighthouse with a minimum of A WCAG 2.0 compliance.
+* Refactored a responsive front-end base theme applicable to multiple applications that utilizes Foundation, reduced package manager complexity, and cleaned template and SASS redundancy.
+* Implemented a complete redesign of three umbrella websites as part of a development team from initial content structure and design concepts to the development design phase and implementation.
+* Improved web accessibility from an average score of 68% on Google Lighthouse to over 90% on the new responsive umbrella websites.
+* Supported HPCTV, a Vue.js application reporting data on NCAR’s supercomputer Cheyenne.
+* Implemented BackstopJS to reduce errors through visual regression testing.
+* Developed a static website friendsofthenationalcenter.org using Bootstrap.
 
 ### Web Developer II/Graphic Designer
 
-* Working with staff to restructure group content with a focus on user experience
-
-* Designed a sub-theme improving usability using analytics and user tests
-
-* Maintaining current theme
-
-* Built a blog and documentation website on Github pages
-
-* Built a custom MailChimp template
-
-* Updated content, refactored XML code and file structure for a touchscreen kiosk
+* Working with staff to restructure group content with a focus on user experience.
+* Designed a sub-theme improving usability using analytics and user tests.
+* Maintaining current theme.
+* Built a blog and documentation website on Github pages.
+* Built a custom MailChimp template.
+* Updated content, refactored XML code and file structure for a touchscreen kiosk.
 
 ## Harvard Magazine
-
 ### Associate Web Developer
 
-* Redesigned article pages to create a better reading experience by focusing on the text and images
-
-* Created a custom landing page theme that can be used to promote special events
-
-* Created a custom module to help allow the magazine to customize content based upon a custom taxonomy
-
-* Custom-built floating and pushdown ads that utilize a cookie to only display the ads during scheduled intervals to users
-
-* Added a custom classifieds blog within the site
-
-* Designed a cleaner navigation focusing on usability and functionality
-
-* Completely rebuilt Harvard Magazine's donor section from the ground up
-
-* Added features, including an interactive chart and a landing page dedicated to current and potential donors
-
-* Built several custom-themed email templates in MailChimp for the over 200,000 email recipients
+* Redesigned article pages to create a better reading experience by focusing on the text and images.
+* Created a custom landing page theme that can be used to promote special events.
+* Created a custom module to help allow the magazine to customize content based upon a custom taxonomy.
+* Custom-built floating and pushdown ads that utilize a cookie to only display the ads during scheduled intervals to users.
+* Added a custom classifieds blog within the site.
+* Designed a cleaner navigation focusing on usability and functionality.
+* Completely rebuilt Harvard Magazine's donor section from the ground up.
+* Added features, including an interactive chart and a landing page dedicated to current and potential donors.
+* Built several custom-themed email templates in MailChimp for the over 200,000 email recipients.

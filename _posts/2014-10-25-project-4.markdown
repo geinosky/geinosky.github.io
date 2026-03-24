@@ -1,15 +1,31 @@
 ---
 layout: default
-modal-id: 1
-date: 2018-01-25
-img: workflow-icon.png
-alt: image-alt
+modal-id: 2
+date: 2026-3-24
+title: DevOps
+img: devops-icon.png
+alt: DevOps
+icon: gears
 project-date: 
 client: 
-skills: Agile, Pantheon, CircleCI, Ar factory, New Relic, Docker, AWS, flow charting, data modeling, user/stakeholder interviews
+skills: CircleCI, GitLab CI, GitHub Actions, Jenkins, Artifactory, Pantheon, New Relic, Docker, AWS
 description: 
 ---
 
-With a team of developers and stakeholders, I helped implemented a complete redesign of three umbrella websites as part using Scrum. As part of the development team, we identified a list of user profiles and worked with a team of content editors to restructure the umbrella website content. We then worked with a team of outside designers to finalize a new theme for the websites. After we were handed off the new design, I worked with the team to fully implement the new design into three Drupal 8 websites.
+## University Corporation for Atmospheric Research
+### Team Lead/Software Engineer III
+* Designed a workflow using a private Composer registry to host shared custom Drupal modules managing sensitive data, allowing changes to be implemented in a single location while ensuring the security of the data.
+* Created and manage an automated development workflow using functional and visual-regression testing using NightwatchJS to verify changes on development and test environments before manually pushing changes to a production environment.
+* Implemented a development workflow that allows downstream websites to automatically pull upstream changes while avoiding code collisions on downstream websites. 
+* Built and manage multiple local development options for downstream Pantheon developers, including Docker and Lando.
+* Continuously evaluate development workflows to identify automation opportunities, including visual regression testing, unit testing, automated package management, and application deployment processes to reduce manual effort, accelerate release cycles, and improve reliability.
 
-When working solo, I use the Kanban method to track products from conception to completion. Since implementing this workflow, I have seen a drastic increase both productivity and increased awareness of a current product's state with product owners. While I have tried several Kanban board tools, I have found JIRA to be the most flexible. Especially as I transition from individual work and group work.
+## Pacific Northwest National Laboratory
+### Software Engineer III
+
+* Migrated all custom Composer packages from Artifactory to GitLab to reduce development complexity through automated pipelines and fewer services.
+
+## National Center for Atmospheric Research
+### Software Engineer III
+
+* Managed CircleCI configuration to automate the testing and publication of custom Drupal distributions.

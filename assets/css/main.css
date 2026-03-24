@@ -303,8 +303,6 @@ section.success {
     margin: 0;
     font-size: .85em;
     line-height: 1.764705882em;
-    vertical-align: middle;
-    vertical-align: baseline;
     opacity: 0;
     -webkit-transition: top .3s ease,opacity .3s ease;
     -moz-transition: top .3s ease,opacity .3s ease;
@@ -389,6 +387,16 @@ footer .footer-below {
 
 .scroll-top .btn:focus {
     outline: 0;
+}
+
+.portfolio-item h3 {
+    color: #333;
+}
+
+.portfolio-item i {
+    display: block;
+    font-size: 5rem;
+    margin: auto;
 }
 
 .portfolio-modal .modal-content {

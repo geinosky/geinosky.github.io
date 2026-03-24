@@ -1,0 +1,27 @@
+{
+  "name": "geinosky.github.io",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "library:clean": "del-cli assets/library",
+    "library:fontawesome": "mkdir -p assets/libraries/fontawesome && cp -R node_modules/@fortawesome/fontawesome-free/* assets/libraries/fontawesome/",
+    "library:build": "npm run library:clean && npm run library:fontawesome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geinosky/geinosky.github.io.git"
+  },
+  "author": "Stephen Geinosky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geinosky/geinosky.github.io/issues"
+  },
+  "homepage": "https://github.com/geinosky/geinosky.github.io#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^7.2.0"
+  },
+  "devDependencies": {
+    "del-cli": "^7.0.0"
+  }
+}
