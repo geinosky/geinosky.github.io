@@ -1,9 +1,3 @@
-/*!
- * Start Bootstrap - Freelancer Bootstrap Theme (http://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
- */
-
 body {
     overflow-x: hidden;
 }
@@ -16,13 +10,16 @@ p.small {
     font-size: 16px;
 }
 
-a,
+a {
+    outline: 0;
+    color: #0e111d;
+}
+
 a:hover,
 a:focus,
 a:active,
 a.active {
-    outline: 0;
-    color: #B9121B;
+    text-decoration: underline;
 }
 
 h1,
@@ -148,8 +145,7 @@ header .intro-text .skills {
 }
 
 .navbar {
-    background: #4C1B1B;
-    text-transform: uppercase;
+    background: #0e111d;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
@@ -164,6 +160,14 @@ header .intro-text .skills {
 
 .navbar .navbar-nav li a:focus {
     outline: 0;
+}
+
+.navbar .nav-item {
+    font-weight: 400;
+}
+
+.navbar-brand {
+    font-size: 2rem;
 }
 
 .navbar-default,
@@ -253,7 +257,6 @@ section.success {
 }
 
 .btn-outline {
-    margin-top: 15px;
     border: solid 2px #4C1B1B;
     font-size: 20px;
     color: #4C1B1B;
@@ -265,9 +268,8 @@ section.success {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    border: solid 2px #B9121B;
-    color: #B9121B;
     background: #fff;
+    color: #0e111d;
 }
 
 .form-group {
